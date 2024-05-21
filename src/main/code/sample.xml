@@ -1,0 +1,6 @@
+<note>
+<to>Manager</to>
+<from>Employee</from>
+<heading>Reminder</heading>
+<body>Don't forget to fill the timesheet</body>
+</note>
